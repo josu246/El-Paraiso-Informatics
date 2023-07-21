@@ -1,0 +1,17 @@
+h1 {
+    color: brown;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.allow {
+    width: 400px;
+    margin: 0 auto;}
+
+.allow img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
